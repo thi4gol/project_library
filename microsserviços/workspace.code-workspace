@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "discovery-server",
+			"path": "discovery-server"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"name": "library",
+			"path": "library"
+		},
+		{
+			"name": "register",
+			"path": "register"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
